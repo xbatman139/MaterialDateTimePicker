@@ -20,8 +20,7 @@
     android:orientation="horizontal"
     android:background="@android:color/transparent"
     android:gravity="end|right"
-    android:layout_gravity="center_vertical"
-    android:paddingBottom="8dp">
+    android:layout_gravity="center_vertical">
 
     <Button
         android:id="@+id/mdtp_cancel"
